@@ -178,6 +178,9 @@ body {
   .title-heading {
     text-align: center;
   }
+  .title-image {
+    text-align: center;
+  }
   .about {
     text-align: center;
   }
@@ -189,6 +192,9 @@ body {
   }
   .project-title p {
     padding-right: 3%;
+  }
+  .project-image {
+    text-align: center;
   }
   .project-button {
     margin-right: 16%;
